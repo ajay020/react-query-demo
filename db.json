@@ -15,5 +15,20 @@
       "name": "Wonder Woman",
       "alterEgo": "Princess Diana"
     }
+    
+  ],
+  "friends":[
+    {
+        "id":1,
+        "name":"Ross Galler"
+    },
+    {
+        "id":2,
+        "name":"Joey Tribbani"
+    },
+    {
+        "id":3,
+        "name":"Rachel Green"
+    }
   ]
 }

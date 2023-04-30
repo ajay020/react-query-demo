@@ -13,6 +13,9 @@ function Navbar() {
         <li>
           <Link to="/rq-super-heroes">RQ Super Heroes</Link>
         </li>
+        <li>
+          <Link to="/rq-home-work">RQ HomeWork</Link>
+        </li>
       </ul>
     </nav>
   );
